@@ -5,6 +5,7 @@ until game:IsLoaded()
 local a={
 [6765805766]="block_spin",
 [7436755782]="grow_a_garden",
+[6057699512] = "all_star_towner_defense"
 }
 
 local b=game.GameId
